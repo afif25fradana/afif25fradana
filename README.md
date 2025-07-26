@@ -6,7 +6,7 @@
 
 - 📚 Uni student, just exploring tech & Linux in my spare time
 - 🐧 Daily driver: EndeavourOS (KDE + Hyprland), but dual-boot with Windows 11 for convenience
-- 🎮 Casual gamer (mostly PC, RPGs & strategy)
+- 🎮 Casual gamer (mostly PC, Story, Adventure & Racing)
 - 🤓 Anime/manga fan (but not *that* deep)
 - 🛠️ Not a Linux expert, just enjoy tweaking configs and backups for my own use
 
