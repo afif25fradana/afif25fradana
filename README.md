@@ -25,7 +25,14 @@
 ## 🔥 Repo Highlights
 
 - [`Personal-dual-de-endeavouros`](https://github.com/afif25fradana/Personal-dual-de-endeavouros)  
-  ➤ Config dumps for **KDE Plasma** and **Hyprland**  
+  ➤ Config dumps for **KDE Plasma** and **Hyprland**
+
+```
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)  
+```
   ⚠️ Based on [Hyde Project](https://github.com/Hyde-project/hyde) — still minimal personal tweaks
 
 ## 📬 Contact
