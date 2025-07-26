@@ -22,6 +22,10 @@
 - Adapt cool open-source setups (e.g., Hyde Project)
 - Share screenshots, notes, and maybe inspire fellow tinkerers
 
+## 💻 My Desktop
+
+(https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots%2FRicing%20KDE%2Fsddm_screenshot.png)
+
 ## 🔥 Repo Highlights
 
 - [`Personal-dual-de-endeavouros`](https://github.com/afif25fradana/Personal-dual-de-endeavouros)  
