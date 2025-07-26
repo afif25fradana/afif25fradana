@@ -26,6 +26,8 @@
 
 ![SDDM](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots%2FRicing%20KDE%2Fsddm_screenshot.png)
 ![KDE](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots/Ricing%20KDE/Screenshot_20250726_094751.png)
+![Hyprland 1](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/e20ce616bc6be199c4d2c005807c31accfad6b65/screenshots/Hyprland/250726_17h53m03s_screenshot.png)
+![Hyprland 2](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/e20ce616bc6be199c4d2c005807c31accfad6b65/screenshots/Hyprland/250726_17h53m21s_screenshot.png)
 
 ## 🔥 Repo Highlights
 
