@@ -1,7 +1,11 @@
 # Hi, I'm Afif 👋
 
-![Platform](https://img.shields.io/badge/platform-EndeavourOS-blueviolet)
-![WM](https://img.shields.io/badge/WM-KDE%20%2B%20Hyprland-purple)
+## My Tech Stack
+![KDE Plasma](https://img.shields.io/badge/Desktop-KDE_Plasma-0078D4?style=for-the-badge&logo=kde&logoColor=white)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-282C34?style=for-the-badge&logo=Hyprland&logoColor=white)
+![Windows 11](https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Shell-Fish-0078D4?style=for-the-badge&logo=fish&logoColor=white)
+![Kitty Terminal](https://img.shields.io/badge/Terminal-Kitty-1A1A1A?style=for-the-badge&logo=kitty&logoColor=white)
 
 ## 👨‍💻 About Me
 
