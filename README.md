@@ -24,7 +24,7 @@
 
 ## 💻 My Desktop
 
-(https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots%2FRicing%20KDE%2Fsddm_screenshot.png)
+[SDDM](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots%2FRicing%20KDE%2Fsddm_screenshot.png)
 
 ## 🔥 Repo Highlights
 
