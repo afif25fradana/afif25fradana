@@ -1,34 +1,33 @@
 # Hi, I'm Afif 👋
 
-![EndeavourOS](https://img.shields.io/badge/platform-EndeavourOS-blueviolet)
+![Platform](https://img.shields.io/badge/platform-EndeavourOS-blueviolet)
+![WM](https://img.shields.io/badge/WM-KDE%20%2B%20Hyprland-purple)
 
-## About Me
+## 👨‍💻 About Me
 
-- 📚 Uni student, just exploring tech & Linux in my spare time
-- 🐧 Daily driver: EndeavourOS (KDE + Hyprland), but dual-boot with Windows 11 for convenience
-- 🎮 Casual gamer (mostly PC, Story, Adventure & Racing)
-- 🤓 Anime/manga fan (but not *that* deep)
-- 🛠️ Not a Linux expert, just enjoy tweaking configs and backups for my own use
+- 🎓 Uni student (Accounting) with a growing love for tech, Linux, and ricing
+- 🐧 Daily driver: EndeavourOS (KDE + Hyprland), dual-booted with Windows 11
+- 🎮 PC gamer — into story-driven, adventure, and racing titles
+- 🌸 Anime & manga enjoyer (casual tier)
+- 🛠️ Not a Linux pro — I just like messing with configs and learning from trial & error
 
-## What I Do
+## ⚙️ What I Do
 
-- Make config backups so I don't lose my shit after a reinstall!
-- Try out different desktop environments and window managers
-- Adapt configs from cool projects (like Hyde Project for Hyprland)
-- Share screenshots and notes for future reference
+- Backup configs so I don't fucking rage after a system wipe 🧼
+- Test out different DEs & WMs — from comfy KDE to snappy Hyprland
+- Adapt cool open-source setups (e.g., Hyde Project)
+- Share screenshots, notes, and maybe inspire fellow tinkerers
 
-- **OS:** EndeavourOS (Arch-based), Windows 11
+## 🔥 Repo Highlights
 
-## Repo Highlights
+- [`Personal-dual-de-endeavouros`](https://github.com/afif25fradana/Personal-dual-de-endeavouros)  
+  ➤ Config dumps for **KDE Plasma** and **Hyprland**  
+  ⚠️ Based on [Hyde Project](https://github.com/Hyde-project/hyde) — still minimal personal tweaks
 
-- [Personal-dual-de-endeavouros](https://github.com/afif25fradana/Personal-dual-de-endeavouros):  
-  Config dumps for KDE Plasma & Hyprland. Mostly for my own backup, but maybe useful for others.  
-  ⚠️ Mostly adapted from [Hyde Project](https://github.com/Hyde-project/hyde)—not much personal customization yet.
-
-## Contact
+## 📬 Contact
 
 - Instagram: [@afif_fradana](https://www.instagram.com/afif_fradana/)
 
 ---
 
-*Just learning as I go. If you find my configs useful, cool!*
+_Just learning as I go. If you find my setup helpful — awesome!_
