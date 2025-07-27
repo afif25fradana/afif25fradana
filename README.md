@@ -51,7 +51,7 @@
 
 ## 🔥 Repo Highlights
 
-- [`Personal-dual-de-endeavouros`](https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros)  
+- [Personal Dual DE Ricing](https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros)  
   ➤ Config dumps for **KDE Plasma** and **Hyprland**
 
   ⚠️ Based on [Hyde Project](https://github.com/Hyde-project/hyde) — still minimal personal tweaks
