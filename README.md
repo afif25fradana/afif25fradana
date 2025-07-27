@@ -24,14 +24,34 @@
 
 ## 💻 My Desktop
 
-![SDDM](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots%2FRicing%20KDE%2Fsddm_screenshot.png)
-![KDE](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/main/screenshots/Ricing%20KDE/Screenshot_20250726_094751.png)
-![Hyprland 1](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/e20ce616bc6be199c4d2c005807c31accfad6b65/screenshots/Hyprland/250726_17h53m03s_screenshot.png)
-![Hyprland 2](https://github.com/afif25fradana/Personal-dual-de-endeavouros/blob/e20ce616bc6be199c4d2c005807c31accfad6b65/screenshots/Hyprland/250726_17h53m21s_screenshot.png)
+![KDE](https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/KDE/untitled.gif)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/KDE/Screenshot_20250727_124048.png" alt="Hyprland Screenshot 1" width="100%">
+      <br>
+      </td>
+    <td align="center">
+      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/Hyrland/250727_12h52m22s_screenshot.png" alt="Hyprland Screenshot 2" width="100%">
+      <br>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/Login/sddm_screenshot.png" alt="Hyprland Screenshot 3" width="100%">
+      <br>
+      </td>
+    <td align="center">
+      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/Hyrland/250727_12h50m03s_screenshot.png" alt="Hyprland Screenshot 4" width="100%">
+      <br>
+      </td>
+  </tr>
+</table>
 
 ## 🔥 Repo Highlights
 
-- [`Personal-dual-de-endeavouros`](https://github.com/afif25fradana/Personal-dual-de-endeavouros)  
+- [`Personal-dual-de-endeavouros`](https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros)  
   ➤ Config dumps for **KDE Plasma** and **Hyprland**
 
   ⚠️ Based on [Hyde Project](https://github.com/Hyde-project/hyde) — still minimal personal tweaks
