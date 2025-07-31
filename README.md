@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/KDE/Screenshot_20250727_124048.png" alt="Hyprland Screenshot 1" width="100%">
+      <img src="https://github.com/afif25fradana/dump-screenshot/blob/1688bdedbff7dc3a353633b5c605b54530b5452c/KDE/Screenshot_20250731_092322.png" alt="Hyprland Screenshot 1" width="100%">
       <br>
       </td>
     <td align="center">
@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/55c91fe5899ec0b74fbd3c38762f9eedf9b1d5a6/screenshots/Login/sddm_screenshot.png" alt="Hyprland Screenshot 3" width="100%">
+      <img src="https://github.com/afif25fradana/dump-screenshot/blob/1688bdedbff7dc3a353633b5c605b54530b5452c/Login/sddm_screenshot.png" alt="Hyprland Screenshot 3" width="100%">
       <br>
       </td>
     <td align="center">
