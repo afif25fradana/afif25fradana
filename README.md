@@ -24,26 +24,39 @@
 
 ## 💻 My Desktop
 
-![KDE](https://github.com/afif25fradana/dump-screenshot/blob/1688bdedbff7dc3a353633b5c605b54530b5452c/KDE/Screenshot_20250731_092322.png)
+![KDE](https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364559/Screenshot_20250731_092322_uamet9.png)
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/afif25fradana/dump-screenshot/blob/1688bdedbff7dc3a353633b5c605b54530b5452c/KDE/Screenshot_20250731_093054.png" alt="Hyprland Screenshot 1" width="100%">
+      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364561/Screenshot_20250731_093054_jnsyxk.png" alt="KDE Screenshot 1" width="100%">
       <br>
       </td>
     <td align="center">
-      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/c95c78201bbaa3d8f3be709b9ccf6f4e53f3e462/screenshots/Hyprland/250727_12h52m22s_screenshot.png" alt="Hyprland Screenshot 2" width="100%">
+      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364562/Screenshot_20250731_093156_s7dht9.png" alt="KDE Screenshot 2" width="100%">
       <br>
       </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/afif25fradana/dump-screenshot/blob/1688bdedbff7dc3a353633b5c605b54530b5452c/KDE/Screenshot_20250731_093156.png" alt="Hyprland Screenshot 3" width="100%">
+      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364553/250727_12h52m22s_screenshot_vvfjl7.png" alt="Hyprland Screenshot 3" width="100%">
       <br>
       </td>
     <td align="center">
-      <img src="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros/blob/c95c78201bbaa3d8f3be709b9ccf6f4e53f3e462/screenshots/Hyprland/250727_12h50m03s_screenshot.png" alt="Hyprland Screenshot 4" width="100%">
+      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364549/250727_12h50m03s_screenshot_tnr1yz.png" alt="Hyprland Screenshot 4" width="100%">
+      <br>
+      </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755366186/Screenshot_404_cdwtui.png" alt="W11 Screenshot 1" width="100%">
+      <br>
+      </td>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755366190/Screenshot_57_sgzxh7.png" alt="W11 Screenshot 2" width="100%">
       <br>
       </td>
   </tr>
@@ -52,9 +65,10 @@
 ## 🔥 Repo Highlights
 
 - [Personal Dual DE Ricing](https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros)  
-  ➤ Config dumps for **KDE Plasma** and **Hyprland**
+  ➤ Config dumps for **KDE Plasma**
 
-  ⚠️ Based on [Hyde Project](https://github.com/Hyde-project/hyde) — still minimal personal tweaks
+- [Linux Health Check Suite](https://github.com/afif25fradana/health-check.git)
+  ➤ Personal one click health check Linux
 
 ## 📬 Contact
 
