@@ -24,6 +24,8 @@
 
 ## 💻 My Desktop
 
+### Linux
+
 ![KDE](https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364559/Screenshot_20250731_092322_uamet9.png)
 
 <table>
@@ -48,6 +50,8 @@
       </td>
   </tr>
 </table>
+
+### Windows 11
 
 <table>
   <tr>
