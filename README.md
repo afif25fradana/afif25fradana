@@ -6,6 +6,10 @@
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Shell-Fish-0078D4?style=for-the-badge&logo=fish&logoColor=white)
 ![Kitty Terminal](https://img.shields.io/badge/Terminal-Kitty-1A1A1A?style=for-the-badge&logo=kitty&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/AI%20Runtime-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/STT-Whisper-F7DF1E?style=for-the-badge&logo=openai&logoColor=black)
+![Piper](https://img.shields.io/badge/TTS-Piper-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 👨‍💻 About Me
 
@@ -18,9 +22,10 @@
 ## ⚙️ What I Do
 
 - Backup configs so I don't fucking rage after a system wipe 🧼
-- Test out different DEs & WMs — from comfy KDE to snappy Hyprland
-- Adapt cool open-source setups (e.g., Hyde Project)
-- Share screenshots, notes, and maybe inspire fellow tinkerers
+- Test out different DEs & WMs — from comfy KDE to snappy Hyprland 🖥️
+- Adapt cool open-source setups (e.g., Hyde Project) 🛠️
+- Share screenshots, notes, and maybe inspire fellow tinkerers ✨
+- Exploring AI/ML and Python development 🤖
 
 ## 💻 My Desktop
 
@@ -73,6 +78,12 @@
 
 - [Linux Health Check Suite](https://github.com/afif25fradana/health-check.git)
   ➤ Personal one click health check Linux
+
+- [Luna Voice Assistant](https://github.com/afif25fradana/luna-voice-assistant-offline) 🗣️
+  ➤ Secure, offline-capable AI voice assistant
+
+- [Personal Website](https://afif25fradana.github.io/) 🌐
+  ➤ My personal website and portfolio
 
 ## 📬 Contact
 
