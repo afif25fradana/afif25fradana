@@ -1,101 +1,218 @@
-# Hi, I'm Afif 👋
+# Hi there! 👋 I'm Afif
 
-## My Tech Stack
-![KDE Plasma](https://img.shields.io/badge/Desktop-KDE_Plasma-0078D4?style=for-the-badge&logo=kde&logoColor=white)
-![Hyprland](https://img.shields.io/badge/WM-Hyprland-282C34?style=for-the-badge&logo=Hyprland&logoColor=white)
-![Windows 11](https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Fish Shell](https://img.shields.io/badge/Shell-Fish-0078D4?style=for-the-badge&logo=fish&logoColor=white)
-![Kitty Terminal](https://img.shields.io/badge/Terminal-Kitty-1A1A1A?style=for-the-badge&logo=kitty&logoColor=white)
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/AI%20Runtime-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Whisper](https://img.shields.io/badge/STT-Whisper-F7DF1E?style=for-the-badge&logo=openai&logoColor=black)
-![Piper](https://img.shields.io/badge/TTS-Piper-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+<div align="center">
 
-## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=afif25fradana&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/afif25fradana?style=social)
+![GitHub stars](https://img.shields.io/github/stars/afif25fradana?style=social)
 
-- 🎓 Uni student (Accounting) with a growing love for tech, Linux, and ricing
-- 🐧 Daily driver: EndeavourOS (KDE + Hyprland), dual-booted with Windows 11
-- 🎮 PC gamer — into story-driven, adventure, and racing titles
-- 🌸 Anime & manga enjoyer (casual tier)
-- 🛠️ Not a Linux pro — I just like messing with configs and learning from trial & error
+</div>
 
-## ⚙️ What I Do
+## 🎯 About Me
 
-- Backup configs so I don't fucking rage after a system wipe 🧼
-- Test out different DEs & WMs — from comfy KDE to snappy Hyprland 🖥️
-- Adapt cool open-source setups (e.g., Hyde Project) 🛠️
-- Share screenshots, notes, and maybe inspire fellow tinkerers ✨
-- Exploring AI/ML and Python development 🤖
+```yaml
+name: "Afif"
+located_in: "Indonesia"
+current_job: "Accounting Student"
+passion: "Linux Enthusiast & AI Tinkerer"
+setup: "EndeavourOS + KDE/Hyprland"
+hobbies: ["Gaming", "Anime", "System Ricing", "AI Development"]
+motto: "Learning through breaking things, then fixing them better"
+```
 
-## 💻 My Desktop
+## 💻 Current Tech Stack
 
-### Linux
+<details>
+<summary>🖥️ <strong>Desktop Environment</strong></summary>
 
-![KDE](https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364559/Screenshot_20250731_092322_uamet9.png)
+- **OS**: EndeavourOS (Arch-based)
+- **DE**: KDE Plasma 6 
+- **WM**: Hyprland (tiling)
+- **Terminal**: Kitty + Konsole
+- **Shell**: Fish
+- **Theme**: Sweet-Dark + Custom configs
+
+</details>
+
+<details>
+<summary>🤖 <strong>Development & AI</strong></summary>
+
+- **Languages**: Python, JavaScript, Shell
+- **Frameworks**: FastAPI, Electron, Flask
+- **AI Stack**: Ollama, Gemma 3, Whisper, Piper
+- **Tools**: Git, Poetry, npm, AUR helpers
+- **Databases**: SQLite, JSON storage
+
+</details>
+
+<details>
+<summary>🎮 <strong>Gaming & Entertainment</strong></summary>
+
+- **Platform**: PC (Windows 11 dual boot)
+- **Genres**: Story-driven RPGs, Racing sims
+- **Current**: Adventure games, indie titles
+- **Anime**: Slice of life, adventure genres
+- **Streaming**: Casual YouTube, tech content
+
+</details>
+
+## 📌 Pinned Projects
+
+> Check out my pinned repositories below! Each one represents a different journey in my tech exploration.
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364561/Screenshot_20250731_093054_jnsyxk.png" alt="KDE Screenshot 1" width="100%">
-      <br>
-      </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364562/Screenshot_20250731_093156_s7dht9.png" alt="KDE Screenshot 2" width="100%">
-      <br>
-      </td>
+    <td>
+      <a href="https://github.com/afif25fradana/lyra-voice-assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afif25fradana&repo=lyra-voice-assistant&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/afif25fradana/health-check">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afif25fradana&repo=health-check&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364553/250727_12h52m22s_screenshot_vvfjl7.png" alt="Hyprland Screenshot 3" width="100%">
-      <br>
-      </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364549/250727_12h50m03s_screenshot_tnr1yz.png" alt="Hyprland Screenshot 4" width="100%">
-      <br>
-      </td>
+    <td>
+      <a href="https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afif25fradana&repo=personal-dual-de-ricing-endeavouros&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/afif25fradana/afif25fradana.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afif25fradana&repo=afif25fradana.github.io&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
   </tr>
 </table>
 
-### Windows 11
+</div>
+
+## 🎨 My Desktop Gallery
+
+<div align="center">
+
+### 🐧 Linux Setup (EndeavourOS)
+<img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364559/Screenshot_20250731_092322_uamet9.png" alt="KDE Desktop" width="45%"> <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755364553/250727_12h52m22s_screenshot_vvfjl7.png" alt="Hyprland Desktop" width="45%">
+
+**KDE Plasma 6** *(Daily Use)* | **Hyprland** *(Daily Use but Different Skin lol)*
+
+</div>
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+- Voice interface for desktop assistant
+- Semantic memory system with embeddings
+- Local AI model optimization
+- Desktop integration tools
+
+</td>
+<td width="50%">
+
+### 🐧 Linux & System Tools  
+- Multi-distro health monitoring
+- Automated rice deployment
+- AUR package maintenance
+- Performance optimization scripts
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755366186/Screenshot_404_cdwtui.png" alt="W11 Screenshot 1" width="100%">
-      <br>
-      </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dta7ppwxj/image/upload/v1755366190/Screenshot_57_sgzxh7.png" alt="W11 Screenshot 2" width="100%">
-      <br>
-      </td>
+    <td>
+      <a href="https://github.com/afif25fradana">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afif25fradana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/afif25fradana">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afif25fradana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
   </tr>
 </table>
 
-## 🔥 Repo Highlights
+</div>
 
-- [Personal Dual DE Ricing](https://github.com/afif25fradana/personal-dual-de-ricing-endeavouros)  
-  ➤ Config dumps for **KDE Plasma**
+<div align="center">
+  
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=afif25fradana&theme=tokyo-night&hide_border=true)
 
-- [Linux Health Check Suite](https://github.com/afif25fradana/health-check.git)
-  ➤ Personal one click health check Linux
+</div>
 
-- [Luna Voice Assistant](https://github.com/afif25fradana/luna-voice-assistant-offline) 🗣️
-  ➤ Secure, offline-capable AI voice assistant
+## 🎯 Current Focus Areas
 
-- [Personal Website](https://afif25fradana.github.io/) 🌐
-  ➤ My personal website and portfolio
+```mermaid
+mindmap
+  root((Afif's Tech Journey))
+    AI Development
+      Voice Assistants
+      Local Models
+      Privacy-First Tools
+    Linux Mastery
+      Desktop Ricing
+      System Administration
+      Shell Scripting
+    Web Development
+      Interactive UIs
+      Real-time Communication
+      Modern CSS/JS
+    System Tools
+      Health Monitoring
+      Automation Scripts
+      Performance Tuning
+```
 
-## 📬 Contact
+## 🤝 Let's Connect!
 
-- Instagram: [@afif_fradana](https://www.instagram.com/afif_fradana/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-afif25fradana.github.io-blue?style=for-the-badge&logo=github-pages)](https://afif25fradana.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-@afif__fradana-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afif_fradana/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fradanaafif@gmail.com)
+
+</div>
+
+## 🎪 Fun Corner
+
+<details>
+<summary>💡 <strong>Random Facts About Me</strong></summary>
+
+- 🌙 **Best Coding Hours**: When I have the guts to do it
+- 🔥 **Biggest Win**: Successfully rice-ing my desktop without breaking it
+- 😅 **Biggest Fail**: Accidentally wiping my /home partition and windows partition too
+- 🎯 **Current Goal**: Build offline AI assistant (I hope it’s worth it)
+- 🌸 **Guilty Pleasure**: Spending hours tweaking window manager configs and somehow breaking everything
+
+</details>
+
+<div align="center">
+
+### 💖 Thanks for visiting!
+
+*"I Hate Coding but I Love Create Something on My Own"*
+
+```ascii
+         |\      _,,,---,,_
+    ZZZzz /,`.-'`'    -.  ;-;;,_
+         |,4-  ) )-,_. ,\ (  `'-'
+        '---''(_/--'  `-'\_)
+```
+
+</div>
 
 ---
-
-_Just learning as I go. If you find my setup helpful — awesome!_
-
-```
-      |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)  
-```
