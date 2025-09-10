@@ -77,8 +77,8 @@ motto: "Learning through breaking things, then fixing them better"
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/afif25fradana/Felis-Shell-Modular-Dotfile.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afif25fradana&repo=Felis-Shell-Modular-Dotfile &theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/afif25fradana/Felis-Shell-Modular-Dotfile">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afif25fradana&repo=Felis-Shell-Modular-Dotfile&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td>
