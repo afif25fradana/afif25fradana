@@ -12,4 +12,4 @@ Pi-hole + Unbound + Tailscale for home DNS, exploring Android and set-top-box op
 
 ## Currently
 
-Reading *Sakamoto* · playing *Kingdom Come: Deliverance* and *Arknights* · aquascaping and
+Reading *Sakamoto* · playing *Kingdom Come: Deliverance* and *Arknights* · aquascaping and keeping a leopard gecko
