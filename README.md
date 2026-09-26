@@ -4,7 +4,7 @@ I build tools for my own use, documented so others can understand them. Based in
 
 ## What I'm building
 
-Personal-use tools, homelab automation, and AI experimentation. Half of it is vibecoded and the rest is hope
+Personal-use tools, homelab automation, and AI experimentation. Yeah I use AI a lot for this stuff. It's solving problems I actually run into, so why the hell would I ship garbage I don't even use myself?
 
 ## Homelab
 
