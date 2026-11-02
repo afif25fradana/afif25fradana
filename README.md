@@ -4,9 +4,9 @@ I build tools for my own use, documented so others can understand them. Based in
 
 ## What I'm building
 
-<img src="https://media.tenor.com/6GnLkqlGMUgAAAAC/rover-male-rover.gif" width="220" align="right" style="border-radius: 8px; margin-left: 16px; margin-bottom: 8px;" />
+<img src="https://media.tenor.com/6GnLkqlGMUgAAAAC/rover-male-rover.gif" alt="Rover" width="190" align="right" />
 
-Personal-use tools, homelab automation, and AI experimentation. Yeah I use AI a lot for this stuff. It's solving problems I actually run into, so why the hell would I ship garbage I don't even use myself?
+Personal utilities, homelab scripts, and AI experiments. I lean on AI to move faster, but I only push code I run and live with myself.
 
 <br clear="all" />
 
